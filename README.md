@@ -3,11 +3,11 @@
 The Spotify Clone project aims to replicate the core functionalities and design aesthetics of the popular music streaming service, Spotify. This web application will be built using HTML, CSS, and JavaScript, providing a user-friendly interface and seamless music playback experience.
 
 ## Objectives
-### UI/UX Design: Create a visually appealing and responsive interface similar to Spotify.
-### Music Playback: Implement basic music player functionalities such as play, pause, skip, and volume control.
-### Playlist Management: Allow users to create, edit, and manage playlists.
-### Search Functionality: Enable users to search for songs, artists, and albums.
-### Responsive Design: Ensure the application works smoothly on both desktop and mobile devices.
+1. UI/UX Design: Create a visually appealing and responsive interface similar to Spotify.
+2. Music Playback: Implement basic music player functionalities such as play, pause, skip, and volume control.
+3. Playlist Management: Allow users to create, edit, and manage playlists.
+4. Search Functionality: Enable users to search for songs, artists, and albums.
+5. Responsive Design: Ensure the application works smoothly on both desktop and mobile devices.
 
 ## Technologies Used
 1.HTML: Structure the web pages and content.
@@ -39,6 +39,6 @@ CSS: Utilize Flexbox and Grid for layout, custom properties for theming, and med
 JavaScript: Handle events such as clicks and input changes, manipulate the DOM, and use the Web Audio API for music playback.
 
 ## Future Enhancements
-User Authentication: Implement login and signup functionality.
-Backend Integration: Connect to a server to fetch music data and store user playlists.
-Advanced Features: Add functionalities like shuffle, repeat, and song lyrics display.
+1. User Authentication: Implement login and signup functionality.
+2. Backend Integration: Connect to a server to fetch music data and store user playlists.
+3. Advanced Features: Add functionalities like shuffle, repeat, and song lyrics display.
